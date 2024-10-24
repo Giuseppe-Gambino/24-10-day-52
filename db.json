@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "email": "pippo@gmail.com",
+      "password": "$2a$10$oBnGu9OzCQ.ilJzRn8BQv.oAMzJPgi4ZpcMKOXtSiBPAV6kxTsxcW",
+      "name": "giuseppe",
+      "id": 1
+    },
+    {
+      "email": "pip@gmmail.com",
+      "password": "$2a$10$nPEuQA4Pq0Wl.bLfiCcFwudqxtFnNpyiAuk.8i/TU/L1dovg/wLYO",
+      "name": "pip",
+      "id": 2
+    },
+    {
+      "email": "pino@gmaill.com",
+      "password": "$2a$10$mTZetwaWtK8Db.ThNFq8leiOBlBX0NVlqy0LqOiwD6R7YRGkh4W7.",
+      "name": "pino",
+      "id": 3
+    },
+    {
+      "email": "timon@gmaail.com",
+      "password": "$2a$10$Ph5hax9iMuxdTDt2yIo96e5gWAhJ.krPBsgEhmNNGOwqzJ/1zHUMy",
+      "name": "timon",
+      "id": 4
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "img": "https://m.media-amazon.com/images/I/911M2ZF3zXL._AC_SL1500_.jpg",
+      "descrizione": "Un ladro esperto che si introduce nei sogni altrui per rubare segreti preziosi deve affrontare la sua missione più difficile: impiantare un'idea nella mente di una persona."
+    },
+    {
+      "id": 2,
+      "title": "Breaking Bad",
+      "img": "https://m.media-amazon.com/images/I/81T9T62pKaL._AC_SL1500_.jpg",
+      "descrizione": "Un insegnante di chimica trasformato in produttore di metanfetamine si addentra nel mondo del crimine per garantire un futuro alla sua famiglia."
+    },
+    {
+      "id": 3,
+      "title": "Naruto",
+      "img": "https://m.media-amazon.com/images/I/81hvOtgqk9L._AC_SL1500_.jpg",
+      "descrizione": "Un giovane ninja, Naruto Uzumaki, sogna di diventare il più grande ninja del suo villaggio e dimostrare a tutti il suo valore."
+    },
+    {
+      "id": 4,
+      "title": "The Matrix",
+      "img": "https://m.media-amazon.com/images/I/51vpnbwFHrL._AC_.jpg",
+      "descrizione": "Un hacker scopre la terribile verità dietro la realtà che conosce e deve lottare contro un mondo di macchine per salvare l'umanità."
+    },
+    {
+      "id": 5,
+      "title": "Stranger Things",
+      "img": "https://m.media-amazon.com/images/I/81lJmsLzlUL._AC_SL1500_.jpg",
+      "descrizione": "Un gruppo di amici affronta eventi soprannaturali e misteriosi che si verificano nella loro cittadina, tra realtà alternative e creature mostruose."
+    },
+    {
+      "id": 6,
+      "title": "Attack on Titan",
+      "img": "https://m.media-amazon.com/images/I/81gkzAE8UnL._AC_SL1500_.jpg",
+      "descrizione": "In un mondo devastato dai giganti, Eren e i suoi amici combattono per proteggere l'umanità e scoprire i segreti dietro queste creature."
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "img": "https://m.media-amazon.com/images/I/81EBp5vxVBL._AC_SL1500_.jpg",
+      "descrizione": "Un giovane hobbit riceve l'incarico di distruggere un potente anello malvagio e deve intraprendere un viaggio epico per salvare la Terra di Mezzo."
+    },
+    {
+      "id": 8,
+      "title": "One Piece",
+      "img": "https://m.media-amazon.com/images/I/71Qw5OWP2sL._AC_SL1000_.jpg",
+      "descrizione": "Monkey D. Luffy e la sua ciurma di pirati partono alla ricerca del leggendario tesoro noto come One Piece."
+    }
+  ],
+  "favorites": []
+}
